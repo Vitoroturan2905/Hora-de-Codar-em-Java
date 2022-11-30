@@ -1,5 +1,7 @@
 # Hora-de-Codar-em-Java
 
+Exercicios em Java com alguns desafios de logica.
+
 1 - Baby Steps
 Escreva um programa em Java e crie uma variável chamada "Planeta" e atribua-a um valor "Plutão". 
 
